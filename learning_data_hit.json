@@ -1,0 +1,36 @@
+{
+  "hu": {
+    "predictions": [],
+    "patternStats": {},
+    "totalPredictions": 0,
+    "correctPredictions": 0,
+    "patternWeights": {},
+    "lastUpdate": null,
+    "streakAnalysis": {
+      "wins": 0,
+      "losses": 0,
+      "currentStreak": 0,
+      "bestStreak": 0,
+      "worstStreak": 0
+    },
+    "adaptiveThresholds": {},
+    "recentAccuracy": []
+  },
+  "md5": {
+    "predictions": [],
+    "patternStats": {},
+    "totalPredictions": 0,
+    "correctPredictions": 0,
+    "patternWeights": {},
+    "lastUpdate": null,
+    "streakAnalysis": {
+      "wins": 0,
+      "losses": 0,
+      "currentStreak": 0,
+      "bestStreak": 0,
+      "worstStreak": 0
+    },
+    "adaptiveThresholds": {},
+    "recentAccuracy": []
+  }
+}

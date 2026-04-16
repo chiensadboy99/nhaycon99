@@ -1,0 +1,47 @@
+[
+  {
+    "Phien": 2908761,
+    "Xuc_xac_1": 4,
+    "Xuc_xac_2": 1,
+    "Xuc_xac_3": 6,
+    "Tong": 11,
+    "Ket_qua": "Tài",
+    "timestamp": 1765428553114
+  },
+  {
+    "Phien": 2908760,
+    "Xuc_xac_1": 1,
+    "Xuc_xac_2": 4,
+    "Xuc_xac_3": 4,
+    "Tong": 9,
+    "Ket_qua": "Xỉu",
+    "timestamp": 1765428483119
+  },
+  {
+    "Phien": 2908759,
+    "Xuc_xac_1": 3,
+    "Xuc_xac_2": 6,
+    "Xuc_xac_3": 4,
+    "Tong": 13,
+    "Ket_qua": "Tài",
+    "timestamp": 1765428413125
+  },
+  {
+    "Phien": 2908758,
+    "Xuc_xac_1": 2,
+    "Xuc_xac_2": 6,
+    "Xuc_xac_3": 3,
+    "Tong": 11,
+    "Ket_qua": "Tài",
+    "timestamp": 1765428343110
+  },
+  {
+    "Phien": 2908757,
+    "Xuc_xac_1": 6,
+    "Xuc_xac_2": 6,
+    "Xuc_xac_3": 5,
+    "Tong": 17,
+    "Ket_qua": "Tài",
+    "timestamp": 1765428273105
+  }
+]
