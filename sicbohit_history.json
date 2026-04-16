@@ -1,0 +1,35 @@
+[
+  {
+    "phien": "#0347529",
+    "du_doan": "Tài",
+    "doan_vi": [
+      12,
+      13,
+      17
+    ],
+    "ket_qua_thuc": null,
+    "timestamp": 1765417080073
+  },
+  {
+    "phien": "#0347672",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      4,
+      7,
+      9
+    ],
+    "ket_qua_thuc": null,
+    "timestamp": 1765426502228
+  },
+  {
+    "phien": "#0347700",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      9,
+      8,
+      10
+    ],
+    "ket_qua_thuc": null,
+    "timestamp": 1765428359437
+  }
+]

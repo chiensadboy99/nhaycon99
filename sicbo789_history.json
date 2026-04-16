@@ -1,0 +1,63 @@
+[
+  {
+    "phien": "2484236",
+    "du_doan": "Tài",
+    "doan_vi": [
+      16,
+      15,
+      12
+    ],
+    "do_tin_cay": "89.91%",
+    "reason": "Dự đoán dựa trên phân tích lịch sử.",
+    "ket_qua_thuc": null,
+    "timestamp": 1765404431258
+  },
+  {
+    "phien": "2484264",
+    "du_doan": "Bão",
+    "doan_vi": [
+      12
+    ],
+    "do_tin_cay": "90.71%",
+    "reason": "Dự đoán bão dựa trên xác suất thấp.",
+    "ket_qua_thuc": null,
+    "timestamp": 1765406090550
+  },
+  {
+    "phien": "2484272",
+    "du_doan": "Bão",
+    "doan_vi": [
+      12
+    ],
+    "do_tin_cay": "72.86%",
+    "reason": "Dự đoán bão dựa trên xác suất thấp.",
+    "ket_qua_thuc": null,
+    "timestamp": 1765406534030
+  },
+  {
+    "phien": "2484616",
+    "du_doan": "Xỉu",
+    "doan_vi": [
+      8,
+      4,
+      10
+    ],
+    "do_tin_cay": "92.75%",
+    "reason": "Dự đoán dựa trên phân tích lịch sử.",
+    "ket_qua_thuc": null,
+    "timestamp": 1765426498935
+  },
+  {
+    "phien": "2484648",
+    "du_doan": "Tài",
+    "doan_vi": [
+      13,
+      14,
+      17
+    ],
+    "do_tin_cay": "89.87%",
+    "reason": "Dự đoán dựa trên phân tích lịch sử.",
+    "ket_qua_thuc": null,
+    "timestamp": 1765428358624
+  }
+]
